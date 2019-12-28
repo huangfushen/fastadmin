@@ -1,0 +1,9 @@
+[ 2019-12-25T14:08:32+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001768s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-25T14:08:32+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'student' [ RunTime:0.000882s ]
+[ 2019-12-25T14:08:32+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_student' [ RunTime:0.000856s ]
+[ 2019-12-25T14:10:00+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001872s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-25T14:10:00+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'employee' [ RunTime:0.000910s ]
+[ 2019-12-25T14:10:00+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_employee' [ RunTime:0.003591s ]
+[ 2019-12-25T14:10:12+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001787s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-25T14:10:12+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'tp' [ RunTime:0.001074s ]
+[ 2019-12-25T14:10:12+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_tp' [ RunTime:0.001237s ]

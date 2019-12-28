@@ -1,0 +1,10 @@
+[ 2019-12-29T00:17:54+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000137s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-29T00:17:54+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-29T00:17:54+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003003s ]
+[ 2019-12-29T00:17:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-29T00:17:54+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001247s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-29T00:17:54+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'activity_allocation' [ RunTime:0.000948s ]
+[ 2019-12-29T00:17:54+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_activity_allocation' [ RunTime:0.000959s ]
+[ 2019-12-29T00:17:54+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'volunteer_activity' [ RunTime:0.001032s ]
+[ 2019-12-29T00:17:54+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_volunteer_activity' [ RunTime:0.001102s ]

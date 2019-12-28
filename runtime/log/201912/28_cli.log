@@ -1,0 +1,56 @@
+[ 2019-12-28T18:38:39+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000138s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T18:38:39+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T18:38:39+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002780s ]
+[ 2019-12-28T18:38:39+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T18:38:39+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001260s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T18:38:39+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'volunteer_apply' [ RunTime:0.000965s ]
+[ 2019-12-28T18:38:39+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_volunteer_apply' [ RunTime:0.001025s ]
+[ 2019-12-28T20:03:48+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000141s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T20:03:48+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T20:03:48+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002952s ]
+[ 2019-12-28T20:03:48+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T20:03:48+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001317s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T20:03:48+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'item' [ RunTime:0.001043s ]
+[ 2019-12-28T20:03:48+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_item' [ RunTime:0.001047s ]
+[ 2019-12-28T20:52:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000136s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T20:52:35+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T20:52:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002877s ]
+[ 2019-12-28T20:52:35+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T20:52:35+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001274s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T20:52:35+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'exchange' [ RunTime:0.001134s ]
+[ 2019-12-28T20:52:35+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_exchange' [ RunTime:0.001006s ]
+[ 2019-12-28T21:12:17+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000138s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T21:12:17+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T21:12:17+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002687s ]
+[ 2019-12-28T21:12:17+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T21:12:17+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001666s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T21:12:17+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'item' [ RunTime:0.000997s ]
+[ 2019-12-28T21:12:17+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_item' [ RunTime:0.001028s ]
+[ 2019-12-28T21:12:32+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000135s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T21:12:32+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T21:12:32+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002750s ]
+[ 2019-12-28T21:12:32+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T21:12:32+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001248s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T21:12:32+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'exchange' [ RunTime:0.001103s ]
+[ 2019-12-28T21:12:32+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_exchange' [ RunTime:0.001084s ]
+[ 2019-12-28T21:14:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000142s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T21:14:08+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T21:14:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002862s ]
+[ 2019-12-28T21:14:08+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T21:14:08+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001261s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T21:14:08+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'item' [ RunTime:0.000966s ]
+[ 2019-12-28T21:14:08+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_item' [ RunTime:0.000904s ]
+[ 2019-12-28T21:14:53+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000183s ]
+[ info ] [ LOG ] INIT File
+[ 2019-12-28T21:14:53+08:00 ][ info ] [ CACHE ] INIT File
+[ 2019-12-28T21:14:53+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002677s ]
+[ 2019-12-28T21:14:53+08:00 ][ info ] [ DB ] INIT mysql
+[ 2019-12-28T21:14:53+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001231s ] mysql:host=127.0.0.1;dbname=med_admin;charset=utf8
+[ 2019-12-28T21:14:53+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'exchange' [ RunTime:0.000964s ]
+[ 2019-12-28T21:14:53+08:00 ][ sql ] [ SQL ] SHOW TABLE STATUS LIKE 'med_exchange' [ RunTime:0.001090s ]
